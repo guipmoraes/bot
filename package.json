@@ -50,7 +50,7 @@
 		"@eartharoid/dtf": "^2.0.1",
 		"@eartharoid/i18n": "^1.2.1",
 		"@fastify/cookie": "^9.3.1",
-		"@fastify/jwt": "^8.0.0",
+		"@fastify/jwt": "^9.0.2",
 		"@fastify/oauth2": "^7.8.0",
 		"@prisma/client": "^4.16.2",
 		"boxen": "^7.1.1",
